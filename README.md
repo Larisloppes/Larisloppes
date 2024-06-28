@@ -1,61 +1,53 @@
-# 🌟 Larissa Lopes - Aprendendo Desenvolvimento Web
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+  
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 
-## 👋 Olá, bem-vindos ao meu GitHub!
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Larislopes/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 
-Sou Larissa Lopes, formada em Ciências Contábeis e Gestão Financeira, e atualmente estou cursando pós-graduação em Gestão e Análise Estratégica de Dados na PUC . Além da minha formação acadêmica, estou em constante aprendizado sobre desenvolvimento web. Aqui você encontrará projetos que estou desenvolvendo enquanto aprimoro minhas habilidades em diversas tecnologias. Meu objetivo é criar sites incríveis e funcionalidades interativas usando HTML, CSS, JavaScript e React. 
 
-## 🚀 Tecnologias que estou aprendendo
 
-- **HTML5**: A estrutura básica da web.
-- **CSS3**: Estilizando a web com elegância.
-- **JavaScript**: Tornando a web interativa e dinâmica.
-- **React**: Construindo interfaces de usuário modernas e eficientes.
-- **Git & GitHub**: Controle de versão e colaboração em projetos.
-- **Node.js**: Explorando o backend com JavaScript.
-- **Express.js**: Criando servidores web robustos.
-- **MongoDB**: Aprendendo sobre bancos de dados NoSQL.
 
-## 📚 Projetos
 
-Aqui estão alguns dos meus projetos:
+## Sobre mim
 
-### 👓 [lojadeoculos](https://github.com/larisloppes/lojadeoculos)
-- **Tecnologia**: CSS
-- **Descrição**: Projeto de uma loja de óculos, focado em estilização e design responsivo.
+Sou Larissa Lopes, formada em Ciências Contábeis e Gestão Financeira, e atualmente estou cursando pós-graduação em Gestão e Análise Estratégica de Dados na PUC. Além da minha formação acadêmica, estou em constante aprendizado sobre desenvolvimento web. Aqui você encontrará projetos que estou desenvolvendo enquanto aprimoro minhas habilidades em diversas tecnologias. Meu objetivo é criar sites incríveis e funcionalidades interativas usando HTML, CSS, JavaScript e React.
 
-### ⚛️ [react.js](https://github.com/larisloppes/react.js)
-- **Tecnologia**: JavaScript
-- **Descrição**: Projeto explorando o React.js para criação de interfaces de usuário dinâmicas.
+## Minhas Skills
 
-### 📊 [bi](https://github.com/larisloppes/bi)
-- **Tecnologia**: Power BI
-- **Descrição**: Análise de dados usando Power BI.
+**Aplicações e dados**
 
-### 💻 [javacript](https://github.com/larisloppes/javacript)
-- **Tecnologia**: JavaScript
-- **Descrição**: Projetos e exercícios do curso de JavaScript da Devmedia.
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
-### 🤖 [My_First_LLM](https://github.com/larisloppes/My_First_LLM)
-- **Tecnologia**: Python
-- **Descrição**: Desafio de imersão em IA.
+**DevOps**
 
-## 🎯 Objetivos
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-- **Melhorar minhas habilidades em desenvolvimento front-end e back-end.**
-- **Construir projetos completos e funcionais.**
-- **Contribuir para projetos open source e colaborar com outros desenvolvedores.**
-- **Compartilhar meu conhecimento e aprender com a comunidade.**
 
-## 📫 Entre em Contato
+**Ferramentas de desenvolvimento**
 
-- **E-mail**: larissasloppes@gmail.com
-- **LinkedIn**: [linkedin.com/in/larissa-lopes-30a23714b](https://www.linkedin.com/in/larissa-lopes-30a23714b/)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-## 📝 Licença
+<br/>
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+<a href="https://github.com/larisloppes" title="Perfil do Larissa Lopes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larisloppes&theme=dracula&show_icons=true" />
+</a>
 
----
+## Onde me encontrar
 
-Espero que gostem dos meus projetos e acompanhem minha jornada de aprendizado! Qualquer feedback ou sugestão é bem-vindo. Vamos aprender e crescer juntos! 🚀
+[![Linkedin](https://img.shields.io/badge/-larissa--lopes--30a23714b-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-lopes-30a23714b/)](https://www.linkedin.com/in/larissa-lopes-30a23714b/)
+[![Gmail Badge](https://img.shields.io/badge/-larissasloppes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larissasloppes@gmail.com)](mailto:larissasloppes@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/larisloppes?label=follow&style=social)](https://github.com/larisloppes)
 
